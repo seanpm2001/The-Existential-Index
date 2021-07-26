@@ -9,7 +9,7 @@ This book is distributed in 2 major formats
 
 ## Binary
 
-[See Binary releases here](/The-Existential-Index/Binary/)
+[See Binary releases here](/The-Existential-Index/Binaries/)
 
 The binary format of this book is pre-compiled, and written in the ODT format. There will be no default distribution in the DOC, DOCX, UOT, DOT, DOTX, PDF, EPUB, DJVU, TXT, OTT, DOCM, FODT, or RTF/etc. formats, although third party support will be available. I might change this rule in the future.
 
@@ -27,9 +27,9 @@ Intermediate/Advanced computer users who use LaTeX or other software compilation
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `1 (Sunday, July 25th 2021 at 7:53 pm)`
+**File version:** `2 (Sunday, July 25th 2021 at 7:56 pm)`
 
-**Line count (including blank lines and compiler line):** `82`
+**Line count (including blank lines and compiler line):** `102`
 
 ***
 
@@ -38,7 +38,7 @@ Intermediate/Advanced computer users who use LaTeX or other software compilation
 <details>
   <summary><H4>This section has been collapsed to improve navigation. Click/tap here to expand/collapse the file history section.</H4></summary>
 
-**Version 1 (Sunday, JUly 25th 2021 at 7:53 pm)**
+**Version 1 (Sunday, July 25th 2021 at 7:53 pm)**
 
 > Changes:
 
@@ -54,17 +54,37 @@ Intermediate/Advanced computer users who use LaTeX or other software compilation
 
 > * Added the file history section
 
-> * Added the footer sewction
+> * Added the footer section
 
 > * No other changes in version 1
 
-**Version 2 (Coming soon)**
+**Version 2 (Sunday, July 25th 2021 at 7:56 pm)**
+
+> Changes:
+
+> * Fixed a broken link
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2
+
+**Version 3 (Coming soon)**
 
 > Changes:
 
 > * Coming soon!
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+**Version 4 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 4
 
 </details>
 
